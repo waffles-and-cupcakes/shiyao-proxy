@@ -9,7 +9,10 @@
   },
   "scripts": {},
   "dependencies": {
+    "babel-preset-env": "^1.6.1",
     "body-parser": "^1.18.2",
+    "eslint": "^4.19.1",
+    "eslint-loader": "^2.0.0",
     "morgan": "^1.9.0"
   },
   "devDependencies": {
